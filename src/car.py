@@ -5,7 +5,7 @@ class Car:
     2- Slot Number
     3- Color of the car
     """
-    
+
     def __init__(self, registration_id, slot, color):
         self.registration_id = registration_id
         self.slot = slot
